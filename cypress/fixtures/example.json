@@ -1,0 +1,16 @@
+{
+  "questionsInput": "app-questions-input",
+  "addQuestionButton": "button[type=button]",
+  "questionGroups": ".form__array__questions__group",
+  "questionInput": "input[ng-reflect-name=questionName]",
+  "answersGroup": "input[ng-reflect-name=answerName]",
+  "addAnswerButton": ".question__add-new__icon",
+  "correctInput": "input[ng-reflect-name=answerCorrect]",
+  "availableQuizzes": "app-available-quiz",
+  "cardTitle": "mat-card-title",
+  "imageUrlInput": "input[ng-reflect-name=thumbnail]",
+  "tabDeleteIcon": ".quiz-form__wrapper__tabs__tab__label__delete__icon",
+  "tabAddIcon": ".quiz-form__wrapper__tabs__tab__label__add__icon",
+  "questionDeleteIcon": ".form__array__questions__group__question__remove__icon",
+  "answerDeleteIcon": ".question__answers__inputs__remove__icon"
+}

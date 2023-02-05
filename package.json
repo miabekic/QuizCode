@@ -1,0 +1,8 @@
+{
+  "name": "Quiz",
+  "version": "1.0.0",
+  "dependencies": {
+    "cypress": "^12.4.1",
+    "typescript": "^4.9.5"
+  }
+}
